@@ -4,11 +4,8 @@ plugins:
 title: David Su 
 #logo:
 #description this is under the logo/profile pic
-author:
-  #name: Yutong David Su
-  email: yutongdavidsu@gmail.com
-  phone: (+61) 0423 160 620
-  phone: (+64) 0210 236 7193
-  linkedin: https://www.linkedin.com/in/david-su-5b041037b/
+email: yutongdavidsu@gmail.com
+phone: (+61) 0423 160 620
+linkedin: https://www.linkedin.com/in/david-su-5b041037b/
 #show_downloads: true
 theme: jekyll-theme-minimal #use this for now, view more at pages.github.com/themes/
