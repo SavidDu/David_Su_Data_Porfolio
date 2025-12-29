@@ -25,6 +25,10 @@ As a recent graduate, I am looking to start my career in data analytics with a f
 - **Microsoft Office** and **Google Workspace** proficiency
 - **Languages**: English and Mandarin
 
+## Projects
+
+Under construction...
+
 ## Experience
 
 ### Data Scientist
@@ -59,7 +63,7 @@ As a recent graduate, I am looking to start my career in data analytics with a f
 
 **Bachelor of Science: Data Analytics**  
 University of Waikato | Hamilton, New Zealand  
-*Graduated: January 2024*
+*Graduated: April 2024*
 
 ## Awards
 
@@ -84,7 +88,3 @@ Owner of NumberWorks'nWords Fendalton
 3/136 Ilam Road, Ilam, Christchurch 8040  
 (03) 358 7917  
 fendalton@numberworks.com
-
----
-
-*Last updated: December 2024*
