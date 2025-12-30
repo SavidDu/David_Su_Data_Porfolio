@@ -1,7 +1,5 @@
 # David Su
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/david-su-5b041037b/)
-
 ## Skills
 
 ### Programming & Development
