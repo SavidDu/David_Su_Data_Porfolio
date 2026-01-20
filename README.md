@@ -11,8 +11,6 @@
 - Performed basic revenue and profit analysis by product and region to support business insight generation
 - Created clear, insight-led findings and translated results into practical business recommendations
 
----
-
 ## Experience
 
 ### Data Scientist | University of Waikato
@@ -40,8 +38,6 @@
 - Maintained organized product displays to enhance customer shopping experience
 - Processed transactions accurately using point-of-sale systems and cash registers
 
----
-
 ## Skills
 
 **Dashboards:** Power BI, Excel, Tableau
@@ -50,8 +46,6 @@
 
 **Languages:** Python, C#, Java, R, HTML5, PHP, Matlab
 
----
-
 ## Education
 
 ### BSc in Data Analytics | University of Waikato
@@ -59,16 +53,12 @@
 
 - Awarded 'Ko Te Tangata' School Leaver Scholarship
 
----
-
 ## Awards
 
 **Trinity College London**
 
 - Advanced Performance Certificate for Piano, 2016
 - Certificate in Graded Examination in Music Performance Level 3 Grade 8 Piano with Merit, 2014
-
----
 
 ## References
 
