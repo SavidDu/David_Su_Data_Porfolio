@@ -18,6 +18,15 @@
 
 ## Projects
 
+### [Grind Sales Analysis](https://github.com/SavidDu/Grind_Sales_Analysis)
+
+**Analysed sales and margin data using SQL and Power BI to identify low-performing products and support pricing decisions. **
+
+- Analysed sales, revenue, and gross margin performance for a retail business
+- Used SQL to extract and prepare sales data
+- Built Power BI dashboards to visualise trends by product, category, and time
+- Identified low-margin products and provided pricing or discontinuation recommendations
+
 ### [Coffee Shop Analysis](https://github.com/SavidDu/coffeeShopAnalysis)
 
 **Performed Excel-based sales analysis to uncover key business insights.**
