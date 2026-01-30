@@ -2,6 +2,15 @@
 
 ## Projects
 
+### [Grind Sales Analysis](https://github.com/SavidDu/Grind_Sales_Analysis)
+
+**Analysed sales and margin data using SQL and Power BI to identify low-performing products and support pricing decisions. **
+
+- Analysed sales, revenue, and gross margin performance for a retail business
+- Used SQL to extract and prepare sales data
+- Built Power BI dashboards to visualise trends by product, category, and time
+- Identified low-margin products and provided pricing or discontinuation recommendations
+
 ### [Coffee Shop Analysis](https://github.com/SavidDu/coffeeShopAnalysis)
 
 **Performed Excel-based sales analysis to uncover key business insights.**
@@ -10,6 +19,8 @@
 - Cleaned, organised, and explored data using Excel to identify sales trends, top-selling products, and profitability drivers
 - Performed basic revenue and profit analysis by product and region to support business insight generation
 - Created clear, insight-led findings and translated results into practical business recommendations
+
+---
 
 ## Experience
 
@@ -38,6 +49,8 @@
 - Maintained organized product displays to enhance customer shopping experience
 - Processed transactions accurately using point-of-sale systems and cash registers
 
+---
+
 ## Skills
 
 **Dashboards:** Power BI, Excel, Tableau
@@ -46,6 +59,8 @@
 
 **Languages:** Python, C#, Java, R, HTML5, PHP, Matlab
 
+---
+
 ## Education
 
 ### BSc in Data Analytics | University of Waikato
@@ -53,12 +68,16 @@
 
 - Awarded 'Ko Te Tangata' School Leaver Scholarship
 
+---
+
 ## Awards
 
 **Trinity College London**
 
 - Advanced Performance Certificate for Piano, 2016
 - Certificate in Graded Examination in Music Performance Level 3 Grade 8 Piano with Merit, 2014
+
+---
 
 ## References
 
