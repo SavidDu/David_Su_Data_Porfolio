@@ -40,8 +40,20 @@
 
 ## Experience
 
+### DSU Administration Assistant | St Vincent's Hospital Melbourne
+**Melbourne, Victoria** | February - Present  
+
+Providing administrative support to both the DSU Reporting & Analytics team and the Patient Administration System (PAS) team.
+
+- Submit mandatory data extracts to external reporting bodies
+- Create and maintain HCP codes for new staff within the hospital's PAS system
+- Manage report subscription lists, coordinating user access across the organisation
+- Maintain SQL queries and reporting dashboards to ensure data source is up to date
+
 ### Data Scientist | University of Waikato
-**Hamilton, New Zealand** | July 2024 - November 2024
+**Hamilton, New Zealand** | July 2024 - November 2024  
+
+Research into the potential of using ML models on GCMS data from patient's breath to predict lung cancer
 
 - Explored how machine learning could help detect lung cancer from breath samples
 - Cleaned and prepared complex data using advanced preprocessing techniques to improve accuracy and consistency
@@ -69,9 +81,9 @@
 
 ## Skills
 
-**Dashboards:** Power BI, Excel, Tableau
+**Dashboards:** Power BI, Power BI Report Builder, Excel, Tableau
 
-**Databases:** Oracle, MongoDB, MS SQL
+**Databases:** Oracle, MongoDB, MS SQL, SSRS
 
 **Languages:** Python, C#, Java, R, HTML5, PHP, Matlab
 
