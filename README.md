@@ -26,6 +26,7 @@
 
 ### DSU Administration Assistant | St Vincent's Hospital Melbourne
 **Melbourne, Victoria** | February - Present  
+
 Providing administrative support to both the DSU Reporting & Analytics team and the Patient Administration System (PAS) team.
 
 - Submit mandatory data extracts to external reporting bodies
@@ -35,6 +36,7 @@ Providing administrative support to both the DSU Reporting & Analytics team and 
 
 ### Data Scientist | University of Waikato
 **Hamilton, New Zealand** | July 2024 - November 2024  
+
 Research into the potential of using ML models on GCMS data from patient's breath to predict lung cancer
 
 - Explored how machine learning could help detect lung cancer from breath samples
